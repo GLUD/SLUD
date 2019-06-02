@@ -1,3 +1,15 @@
 [submodule "SLUD2018/publicidad-SLUD-XV-2018"]
 	path = SLUD2018/publicidad-SLUD-XV-2018
 	url = https://github.com/GLUD/publicidad-SLUD-XV-2018.git
+[submodule "SLUD2017/SLUD-2017"]
+	path = SLUD2017/SLUD-2017
+	url = https://github.com/GLUD/SLUD-2017.git
+[submodule "SLUD2017/CamisaSLUD2017-3"]
+	path = SLUD2017/CamisaSLUD2017-3
+	url = https://github.com/GLUD/CamisaSLUD2017-3.git
+[submodule "SLUD2016/afiches-slud-2016"]
+	path = SLUD2016/afiches-slud-2016
+	url = https://github.com/GLUD/afiches-slud-2016.git
+[submodule "G2-SLUD"]
+	path = G2-SLUD
+	url = https://github.com/GLUD/G2-SLUD.git
